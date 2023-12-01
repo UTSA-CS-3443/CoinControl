@@ -150,7 +150,7 @@ public class Results extends AppCompatActivity implements View.OnClickListener {
         color.add("#A93226");
         color.add("#2471A3");
         color.add("#CA6F1E");
-        color.add("#6C3483 ");
+        color.add("#6C3483");
 
         // Set the data and color to the pie chart
         for (int i = 0; i < expenses.size(); ++i) {
