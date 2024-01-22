@@ -2,7 +2,7 @@
 Project for Team 11
 
 # Synopsis
-CoinControl is a comprehensive financial management app designed to track and organize personal expenses and earnings. It provides a user-friendly interface for adding, editing, and viewing financial records for different months. The core component of the app is the FinancialEntry class, which represents a financial record that can be either an expense or an earning​
+CoinControl is a comprehensive financial management app designed to track and organize personal expenses and earnings. It provides a user-friendly interface for adding, editing, and viewing financial records for different months.
 
 # Code Example
 // Creating a new financial entry
